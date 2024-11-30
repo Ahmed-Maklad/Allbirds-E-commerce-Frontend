@@ -1,6 +1,6 @@
 
-# 🌐 Allbirds E-commerce Frontend  🛍️
-## Public Website Built with Angular
+# 🌐 Project: E-commerce Public Website (All-birds) 🛍️
+## Built with Angular
 
 This repository contains the **frontend** application for the Allbirds E-commerce platform, built using **Angular**. The frontend provides a seamless, dynamic, and responsive user interface for customers to interact with the platform, enabling them to browse products, manage their shopping carts, and handle user authentication. It is designed to ensure a smooth and engaging shopping experience across all devices 📱💻.
 
